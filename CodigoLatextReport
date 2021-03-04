@@ -1,0 +1,114 @@
+\documentclass[titlepage,12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage[onehalfspacing]{setspace}	
+
+
+\begin{titlepage}
+
+
+\title{\textbf{¿COMO ABRIR UNA CUENTA EN OVERLEAF Y EN GITHUB?}}
+
+\author{Johann Alexander Romero \ \\  ITC -  jaromerorretolau@itc.edu.co \\\ Reporte numero 1}
+\date{\today}
+\end{titlepage}
+\begin{document}
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Resumen}
+   Mediante el presente proyecto se llevará a cabo una serie de pasos que tendrá como objetivo final documentar el proceso para la creación de una cuenta en GitHub y Overleaf. Para realizar dicho proyecto se hará un reporte con estilo {\LaTeX} en Overleaf para luego compartirlo en GitHub y en el repositorio de la clase.
+\\ {\it Documentar, GitHub, Overleaf, Proyecto.}
+
+\section{Objetivos}
+ \begin{itemize}
+    \item {\it Crear una cuenta en las páginas \textbf{ GitHub \emph{y} Overleaf} mediante los vínculos solicitados de apoyo} 
+    \item {\it Documentar el paso a paso de la creación de las cuentas en dichas paginas incluyendo imágenes, textos y en caso de ser necesario formulas. } 
+    \item {\it Realizar el informe en \emph{\textbf{{\LaTeX}}} en la pagina de \textbf{Overleaf} y luego subirlo a la pagina de           \textbf{GitHub} } 
+ \end{itemize}
+
+\section{Descripción del reporte}
+  \subsection{Crear una cuenta de GitHub}
+   \subsubsection{Paso 1} 
+Buscar en el ordenador \textbf{"GitHub"} y dar clic en la página oficial.
+
+  \begin{figure}[h!]
+    \centering
+    \caption{GitHub en Google}
+    \label{fig:GitHub en Google}
+\includegraphics[scale=0.25]{Captura de pantalla (2).png}
+  \end{figure}
+
+\subsubsection{Paso 2}
+Si no tiene una cuenta diríjase a la parte superior derecha de la página y dele clic donde dice \textbf{"Sing up"}, luego registrese. Por otro lado, si ya está registrado en \textbf{GitHub} dele clic donde dice \textbf{"Sing in"} y digite los datos solicitados.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (4).png}
+    \caption{Interfaz de entrada de GitHub}
+    \label{fig:my_label}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (5).png}
+    \caption{Registro de datos para iniciar sesión en Github}
+    \label{fig:SesioninicioGitHub}
+\end{figure}
+
+\subsubsection{Paso 3}
+Al darle en iniciar sesión le saldra la interfaz principal de GitHub con su perfil ;y listo, ya puede explorar su cuenta.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (6).png}
+    \caption{Interfaz principal de GitHub}
+    \label{fig:Interfaz princgipal de Github}
+\end{figure}
+
+\subsection{Crear una cuenta en Overleaf}
+
+\subsubsection{Paso 1}
+
+Buscar en el ordenador \textbf{Overleaf} y dar clic en la página oficial.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (8).png}
+    \caption{Overleaf en Google}
+    \label{fig:Overleaf en Google}
+\end{figure}
+\subsubsection{Paso 2}
+Si no tiene una cuenta diríjase a la parte superior derecha de la página y dele clic donde dice \textbf{"Register"}, luego registrese. Por otro lado, si ya está registrado en \textbf{Overleaf} dele clic donde dice \textbf{"Log In"} y digite los datos solicitados para el inicio de sesión.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (9).png}
+    \caption{Interfaz de entradad de Overleaf}
+    \label{fig:Interfaz de entradad de Overleaf}
+\end{figure}
+\vspace{1cm}
+\subsubsection{Paso 3}
+Al darle en iniciar sesión le saldra la interfaz principal de Overleaf con su perfil y los proyectos que puede realizar ;y listo, ya puede explorar la pagina para empezar a hacer sus proyectos \textbf{\LaTeX}.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.24]{Captura de pantalla (10).png}
+    \caption{Interfaz principal de Overleaf}
+    \label{fig:Interfaz principal de Overleaf}
+\end{figure}
+
+\section{Conclusiones}
+\begin{itemize}
+\item {\it En conclusión, observamos que no es un proceso tan complejo el crear una cuenta en alguna de estas dos páginas. Además, hoy en día es mucho más fácil ya que muchas aplicaciones permiten el registro e inicio de sesión por medio de una cuenta administradora como lo puede ser Google o Facebook.} 
+
+\end{itemize}
+\section{Bibliografía}
+\begin{itemize}
+\item Referencias
+\item GitHub. (s.f.). Obtenido de https://github.com/
+\item Overleaf. (s.f.). Obtenido de https://es.overleaf.com/
+\end{itemize}
+\end{document}
